@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently working at IMMO Capital leading the Data Platform & Operations
 - 🌱 Masters in Digital Management @ Hyper Island in Sweden & Computer Engineering @ UNIFEI in Brazil
-- 🤔 My masters' thesis was focused on evaluating organisation culture impact on team's stress levels using MBI survey
-- :bowtie: I write sometimes about my thoughts on work/life/tech/anything: [Medium](https://medium.com/@denisaraujodasilva)
+- 🤔 My masters' thesis was focused on evaluating organisation culture impact on team's stress levels using MBI instrument and lot's of Python
 - 💬 Ask me about: computer engineering, machine learning, team management, burnout, soccer and Brazil 🇧🇷
 - 📫 How to reach me: [e-mail](mailto:silvadenisaraujo@gmail.com?subject=[GitHub]%20Saw%20your%20profile)
 
